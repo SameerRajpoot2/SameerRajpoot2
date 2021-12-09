@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @SameerRajpoot2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 Emai: sameershahid179@gmail.com
+ I’m SameerRajpoot as a Electrical Engineer with a great passion to serve people around the world through Matlab. I have more than three years of experience with a passion for serving my clients with the best of my expertise and communication.
 
-<!---
-SameerRajpoot2/SameerRajpoot2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Emai: sameershahid179@gmail.com
+
+
